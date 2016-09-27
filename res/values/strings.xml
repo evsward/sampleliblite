@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Sample App - MIFARE SDK Lite</string>
+     <string name="action_settings">Settings</string>
+	 <string name="desc">Launcher image</string>
+	 <string name="info_string">Tap any MIFARE card/tag!</string>
+	 <string name="string_title">Sample App - MIFARE SDK Lite</string>
+     <string name="about_text">This sample demonstrates use of MIFARE SDK.Please visit MIFARE SDK page of www.mifare.net for this application source and more details.</string>
+     <string name="Note">Note: This sample app may change contents on tapped cards</string>
+     <string name="about_label">About</string>
+     <string name="checkbox_text">Allow write operations.</string>
+     <string name="write_ops_title">"Overwrite warning!!"</string>
+     <string name="write_ops_message">Please note by selecting this option application writes sample data to the tapped card if the card key is factory default</string>
+</resources>
